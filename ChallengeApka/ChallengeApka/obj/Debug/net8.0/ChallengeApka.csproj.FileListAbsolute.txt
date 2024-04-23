@@ -1,0 +1,14 @@
+C:\Users\przem\OneDrive\Pulpit\projekcik\ChallengeApka\ChallengeApka\bin\Debug\net8.0\ChallengeApka.exe
+C:\Users\przem\OneDrive\Pulpit\projekcik\ChallengeApka\ChallengeApka\bin\Debug\net8.0\ChallengeApka.deps.json
+C:\Users\przem\OneDrive\Pulpit\projekcik\ChallengeApka\ChallengeApka\bin\Debug\net8.0\ChallengeApka.runtimeconfig.json
+C:\Users\przem\OneDrive\Pulpit\projekcik\ChallengeApka\ChallengeApka\bin\Debug\net8.0\ChallengeApka.dll
+C:\Users\przem\OneDrive\Pulpit\projekcik\ChallengeApka\ChallengeApka\bin\Debug\net8.0\ChallengeApka.pdb
+C:\Users\przem\OneDrive\Pulpit\projekcik\ChallengeApka\ChallengeApka\obj\Debug\net8.0\ChallengeApka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\przem\OneDrive\Pulpit\projekcik\ChallengeApka\ChallengeApka\obj\Debug\net8.0\ChallengeApka.AssemblyInfoInputs.cache
+C:\Users\przem\OneDrive\Pulpit\projekcik\ChallengeApka\ChallengeApka\obj\Debug\net8.0\ChallengeApka.AssemblyInfo.cs
+C:\Users\przem\OneDrive\Pulpit\projekcik\ChallengeApka\ChallengeApka\obj\Debug\net8.0\ChallengeApka.csproj.CoreCompileInputs.cache
+C:\Users\przem\OneDrive\Pulpit\projekcik\ChallengeApka\ChallengeApka\obj\Debug\net8.0\ChallengeApka.dll
+C:\Users\przem\OneDrive\Pulpit\projekcik\ChallengeApka\ChallengeApka\obj\Debug\net8.0\refint\ChallengeApka.dll
+C:\Users\przem\OneDrive\Pulpit\projekcik\ChallengeApka\ChallengeApka\obj\Debug\net8.0\ChallengeApka.pdb
+C:\Users\przem\OneDrive\Pulpit\projekcik\ChallengeApka\ChallengeApka\obj\Debug\net8.0\ChallengeApka.genruntimeconfig.cache
+C:\Users\przem\OneDrive\Pulpit\projekcik\ChallengeApka\ChallengeApka\obj\Debug\net8.0\ref\ChallengeApka.dll
